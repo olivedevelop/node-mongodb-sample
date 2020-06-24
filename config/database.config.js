@@ -1,4 +1,4 @@
 module.exports = {
-    url: 'mongodb://admin:India%402020@172.30.177.170:27017/sampledb'
+    url: 'mongodb://admin:India%402020@1172.30.7.14:27017/sampledb'
 };
 
